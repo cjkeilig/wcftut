@@ -1,0 +1,7 @@
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Proxies\bin\Debug\GeoLib.Proxies.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Proxies\bin\Debug\GeoLib.Proxies.pdb
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Proxies\bin\Debug\wcftut.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Proxies\bin\Debug\wcftut.pdb
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Proxies\obj\Debug\GeoLib.Proxies.csprojResolveAssemblyReference.cache
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Proxies\obj\Debug\GeoLib.Proxies.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Proxies\obj\Debug\GeoLib.Proxies.pdb

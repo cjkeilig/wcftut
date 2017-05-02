@@ -1,0 +1,10 @@
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Core\obj\Debug\GeoLib.Core.csprojResolveAssemblyReference.cache
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Core\bin\Debug\GeoLib.Core.dll.config
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Core\bin\Debug\GeoLib.Core.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Core\bin\Debug\GeoLib.Core.pdb
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Core\bin\Debug\EntityFramework.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Core\bin\Debug\EntityFramework.xml
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Core\obj\Debug\GeoLib.Core.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Core\obj\Debug\GeoLib.Core.pdb

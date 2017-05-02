@@ -1,0 +1,10 @@
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\wcftut\bin\Debug\wcftut.dll.config
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\wcftut\bin\Debug\wcftut.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\wcftut\bin\Debug\wcftut.pdb
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\wcftut\bin\Debug\EntityFramework.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\wcftut\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\wcftut\bin\Debug\EntityFramework.xml
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\wcftut\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\wcftut\obj\Debug\wcftut.csprojResolveAssemblyReference.cache
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\wcftut\obj\Debug\wcftut.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\wcftut\obj\Debug\wcftut.pdb

@@ -1,0 +1,15 @@
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\obj\Debug\GeoLib.Services.csprojResolveAssemblyReference.cache
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\GeoLib.Services.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\GeoLib.Services.pdb
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\GeoLib.Core.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\GeoLib.Data.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\wcftut.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\EntityFramework.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\GeoLib.Core.pdb
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\GeoLib.Data.pdb
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\wcftut.pdb
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\EntityFramework.xml
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\obj\Debug\GeoLib.Services.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\obj\Debug\GeoLib.Services.pdb
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\Castle.Core.dll
+C:\Users\unouser\documents\visual studio 2015\Projects\wcftut\GeoLib.Services\bin\Debug\Castle.Core.xml
